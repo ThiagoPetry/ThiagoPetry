@@ -2,6 +2,6 @@
 <p>
   Total profile views:
 </p>
-<p>
+<!-- <p>
   <img alingn="center" src="https://profile-counter.glitch.me/ThiagoPetry/count.svg" />
-</p>
+</p> -->
